@@ -1,5 +1,6 @@
 # MinecraftBed
 <a href="https://github.com/defaultuser0-nerd/MinecraftBed/releases"><img src="https://img.shields.io/github/downloads/defaultuser0-nerd/MinecraftBed/total.svg?style=for-the-badge"></a>
+
 Replaces the haybale in stump with a Minecraft Bed
 ![image](https://github.com/user-attachments/assets/2df64d38-4ecc-422c-808c-f6f023e9160b)
 
