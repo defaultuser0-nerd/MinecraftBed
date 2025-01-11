@@ -2,7 +2,7 @@
 <a href="https://github.com/defaultuser0-nerd/MinecraftBed/releases"><img src="https://img.shields.io/github/downloads/defaultuser0-nerd/MinecraftBed/total.svg?style=for-the-badge"></a>
 
 Replaces the haybale in stump with a Minecraft Bed
-![image](https://github.com/user-attachments/assets/a4915e5e-cc6e-4dde-95ed-b3ea91d8336c)
+![image](https://github.com/user-attachments/assets/8ab78e07-1c6e-46f7-8cdd-cdba340dc74c)
 
 ### **Requirements**
  - [BepInEx](<https://github.com/BepInEx/BepInEx/releases/latest>)
