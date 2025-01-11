@@ -24,7 +24,6 @@ namespace AssetBundleTemplate
 	   	bundle = LoadAssetBundle("MinecraftBed.bed");
 	   	assetBundleParent = Instantiate(bundle.LoadAsset<GameObject>(parentName));
 	   	assetBundleParent.transform.position = new Vector3(-67.2225f, 11.575f, -82.6090f);
-	   	Destroy(GameObject.Find("Environment Objects/LocalObjects_Prefab/TreeRoom/StrawBed_Stump (combined by EdMeshCombiner)/").gameObject);
 	   }
 	   public AssetBundle LoadAssetBundle(string path)
 	   {
