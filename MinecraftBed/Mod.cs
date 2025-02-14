@@ -14,11 +14,12 @@ namespace MinecraftBed
         public static GameObject bed;
         public static string parentName = "bed";
         public void Start()
-		{
+	{
             GorillaTagger.OnPlayerSpawned(init);
-		}
-		void init()
-		{
+	}
+ 
+	void init()
+	{
             bundle = LoadAssetBundle("MinecraftBed.bed");
             bed = Instantiate(bundle.LoadAsset<GameObject>(parentName));
 
@@ -32,6 +33,7 @@ namespace MinecraftBed
             virtualbed.rotation = Quaternion.Euler(0f, 269.8199f, 0f);
             virtualbed.localScale = new Vector3(0.5401f, 0.5074f, 0.5401f);
         }
+	
         public AssetBundle LoadAssetBundle(string path)
         {
             Stream stream = Assembly.GetExecutingAssembly().GetManifestResourceStream(path);
