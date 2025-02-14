@@ -16,5 +16,6 @@ Replaces the haybale in stump with a Minecraft Bed
 3. And put the dll in there
 4. Now you (should) have a Minecraft Bed instead a stinky haybale!
 
+Also, join my discord too https://discord.gg/4VEsTfP4ND
    
 ###### This product is not affiliated with Another Axiom Inc. or its videogames Gorilla Tag and Orion Drift and is not endorsed or otherwise sponsored by Another Axiom. Portions of the materials contained herein are property of Another Axiom. ©2021 Another Axiom Inc.
